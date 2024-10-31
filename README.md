@@ -44,3 +44,46 @@ Student-Result-Management-System/
 │   └── scripts.js            # Main JavaScript file
 ├── requirements.txt          # Project dependencies
 └── students.db               # SQLite database file
+
+# Student Result Management System
+
+The **Student Result Management System** is a Python-based project designed to manage student records and results efficiently. It features user authentication, result management, and database integration with SQLite, offering a user-friendly interface for students and administrators.
+
+---
+
+## Features
+
+- **User Authentication**: Secure login with a "Forgot Password" feature.
+- **SQLite Database Integration**: Data is stored in an SQLite database, making the application portable and lightweight.
+- **Student and Result Management**: Easily add, view, edit, and delete student records and results.
+- **Aesthetic UI**: Built with Tkinter for a desktop GUI, styled to be clean and visually appealing.
+
+---
+
+## Table of Contents
+
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Database Schema](#database-schema)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## Setup and Installation
+
+### Prerequisites
+
+- **Python 3.x** installed on your machine.
+- Basic knowledge of Python and Flask for customization if needed.
+
+### Step-by-Step Installation Guide
+
+1. **Clone the Repository**  
+   Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/Abhi0pal/Student-Result-Management-System.git
+   cd Student-Result-Management-System
+
