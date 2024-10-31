@@ -87,3 +87,20 @@ The **Student Result Management System** is a Python-based project designed to m
    git clone https://github.com/Abhi0pal/Student-Result-Management-System.git
    cd Student-Result-Management-System
 
+
+🚀 Usage
+User Authentication and Registration
+
+    Login: Log in with your username and password.
+    Forgot Password: Use the "Forgot Password" option to reset your password.
+    Register: Create a new user account if you’re a first-time user.
+
+Managing Student Results
+
+    Add Results: Enter a student’s name and score to add a new record.
+    View Results: View all student records in a tabulated format.
+    Edit/Delete Results: Modify or delete entries as needed.
+
+
+
+
