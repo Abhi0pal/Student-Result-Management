@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Student Result Management System with Database</h1>
+<h1 align="center" id="title"># Student Result Management System - Software Requirements Specification (SRS)</h1>
 
 <p align="center"><img src="https://socialify.git.ci/Abhi0pal/Student-Result-Management/image?description=1&amp;descriptionEditable=The%20purpose%20of%20this%20document%20is%20to%20outline%20the%20functional%20and%20non-functional%20requirements%20for%20the%20Student%20Result%20Management%20System.%20The%20system%20will%20facilitate%20the%20efficient%20management%20of%20student%20academic%20records%2C%20featuring%20user%20authentication%2C%20CRUD%20operations%20for%20student%20results%2C%20and%20secure%20data%20storage.%20It%20will%20provide%20an%20intuitive%20and%20visually%20appealing%20interface%20built%20using%20Python%27s%20Tkinter%20and%20use%20SQLite%20for%20secure%20data%20management&amp;font=Inter&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
@@ -31,7 +31,7 @@ Here're some of the project's best features:
 *   Aesthetic Design: A user-friendly and visually appealing interface.
 
 
-# Student Result Management System - Software Requirements Specification (SRS)
+
 
 ## 1. Introduction
 
